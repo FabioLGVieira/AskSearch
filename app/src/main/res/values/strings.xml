@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WereHouse Q/A</string>
+    <string-array name="array_Q">
+        <item>1.wpt</item>
+        <item>2.teste</item>
+        <item>3.nao</item>
+        <item>4.deu</item>
+        <item>5.Scheisse</item>
+        <item>In﻿ what map does the boss Vermun Actarum spawn?\nForbidden land</item>
+        <item>Who is the boss that spawns in Ancient prison 3F?\nBloody Rose</item>
+        <item>Q: Where is the gate of heaven locate?\n
+a. Road to the wind\n
+b. Forests of spirits\n
+            <b>c. Bamboo forest</b></item>
+        <item>Q: How many other maps can you get to from Forgotten land?\n
+a. 2\n
+            <b>b. 3\n</b>
+c. 4</item>
+
+    </string-array>
+</resources>
